@@ -12,7 +12,7 @@ function App() {
 
         </p>
         <p>
-          App Developed By Akhil G Krishnan
+          App Developed By Akhil G Krishnan..
         </p>
         <a
           className="App-link"
