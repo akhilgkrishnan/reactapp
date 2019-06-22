@@ -6,6 +6,7 @@ import Akhil from './components/Akhil'
 function App() {
   return (
     <div className="App">
+    
      <Akhil />
     </div>
   );
